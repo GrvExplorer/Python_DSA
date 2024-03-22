@@ -24,6 +24,7 @@
   ### My Progress
 
   ### TODO's
+  - Quicksort practice of creating function
 
 # Acknowledgments
 
