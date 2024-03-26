@@ -1,4 +1,4 @@
-# Welcome! To 👋 DSA with Python
+# Welcome! To 👋 DSA with Python @GrvExplorer
 
 <a href="https://grvexplorer.notion.site/Data-Structures-Algorithms-in-Python-Programming-930ee9429da44ea88f9c0602ee181592?pvs=4" target="_blank" rel="noreferrer"> <img src="./img/banner.png" alt="banner" /> </a>
 
@@ -18,6 +18,7 @@
     - Bubble Sort
     - Merge Sort
     - Quick sort
+  - Maps
 
   ### Further Learning
 
@@ -31,6 +32,8 @@
 # Feedback for me
 
 # Useful Resources
+
+ - [FigJam](https://www.figma.com/file/a8G0Bfav1FrxGEM7HajGdT/DSA?type=whiteboard&node-id=0%3A1&t=Kv3ekbykZloi9qMt-1)
 
 # Course
 
